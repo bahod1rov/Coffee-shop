@@ -1,0 +1,768 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.body{
+    background-color: #14110E;
+}
+
+.header_ota_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 180px;
+    background-color: #1C1814;
+}
+
+.header_text_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 48px;
+    color: #FFFFFF;
+    width: 1920px;
+    height: 125px;
+}
+
+.header_h30{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.78px;
+    text-align: left;
+    color: #C99E71;
+
+}
+
+.header_h31{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.78px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.body_qahva_div{
+    background-image: url(images/background/back_qahva.png);
+    background-size:100%;
+}
+
+.body_qahva_h1{
+    padding-top: 100px;
+    margin-left: 30px;
+    width: 529px;
+    height: 188px;
+    top: 272px;
+    left: 375px;
+    font-family: Righteous;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 93.6px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.body_qahva_p{
+    font-family: Urbanist;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: left;
+    color: #FFFFFFCC;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.body_qahva_button{
+    color: #FFFFFF;
+    background-color: #C99E71;
+    width: 202px;
+    height: 70px;
+    top: 628px;
+    left: 375px;
+    padding: 24px 40px 24px 40px;
+    gap: 10px;
+    opacity: 0px;
+    border: none;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 90px;
+}
+
+.video_img{
+    margin-left: 700px;
+}
+
+.body_qahva_p2{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.78px;
+    text-align: left;
+}
+
+.body_cappucino_procces{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 100px;
+    gap: 50px;
+}
+
+.body_cappucino_procces_dis{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.body_cappucino_procces_photo_01{
+    font-family: Righteous;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.8px;
+    text-align: left;
+    color: #C99E71;
+}
+
+.body_cappucino_procces_photo_01_text{
+    font-family: Righteous;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.8px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.ourservice_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 140px;
+    gap: 32px;
+
+}
+
+.Our_history_asnavnoy_div{
+    box-shadow: 0px 0px 1px 1px #C99E71;
+    width: 510px;
+    height: 635px;
+    top: 1618px;
+    left: 1035px;
+    color: #1C1814;
+}
+
+.Our_history_asnavnoy{
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    text-align: left;
+    color: #C99E71;
+    padding-top: 120px;
+    margin-left: 56px;
+}
+
+.Our_history_asnavnoy_h1{
+    margin-top: 12px;
+    margin-left: 56px;
+    font-family: Righteous;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 62.4px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Our_history_asnavnoy_p{
+    margin-top: 36px;
+    margin-left: 56px;
+    width: 398px;
+    height: 174px;
+    top: 1932px;
+    left: 1091px;
+    opacity: 0.8px;
+    font-family: Urbanist;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28.8px;
+    text-align: left;
+    color: #FFFFFFCC;
+}
+
+.Popular_Product_h4{
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    text-align: center;
+    color: #C99E71;
+}
+
+.Popular_Product_h1{
+    font-family: Righteous;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 62.4px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.paket_ota_div{
+    margin-top: 140px;
+}
+
+.paket_price_orta_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 36px;
+    margin-top: 56px;
+}
+
+.paket_div{
+    width: 366px;
+    height: 579px;
+    background-color: #121315;
+}
+
+.paket_img{
+    width: 270px;
+    height: 343px;
+    margin-top: 48px;
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-bottom: 36px;
+}
+
+.paket_h3{
+    font-family: Righteous;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.8px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-left: 61px;
+}
+
+.paket_img2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 169px;
+    height: 48px;
+    background-color: #C99E71;
+    color: #FFFFFF;
+    margin-left: 99px;
+    margin-top: 38px;
+    border: none;
+}
+
+.paket_button_p{
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    text-align: left;
+    border: none;
+    gap: 5px;
+    margin-left: 5px;
+}
+
+.paket_price_star{
+    margin-bottom: 20px;
+    margin-left: 91px;
+}
+
+.paket_price_h3{
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    text-align: left;
+    color: #FFFFFF;
+    gap: 5px;
+    margin-left: 94px;
+    margin-top: 20px;
+}  
+
+.paket_price_span{
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    text-align: left;
+    color: #C99E71;
+}
+
+.maydalagich_ota_div{
+    display: flex;
+    background-color: #1C1814;
+    width: 1170px;
+    height: 530px;
+    margin-left: 90px;
+    margin-top: 140px;
+}
+
+.maydalagich_orta_div{
+    display: inline;
+}
+
+.maydalagich_img{
+    margin-left: 160px;
+    margin-top: 85px;
+    margin-bottom: 85px;
+    margin-right: 160px;
+}
+
+.maydalagich_h1{
+    font-family: Righteous;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 62.4px;
+    text-align: left;
+    color: #FFFFFF;
+    display: block;
+    margin-top: 72px;
+    margin-bottom: 36px;
+}
+
+.maydalagich_p{
+    font-family: Urbanist;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28.8px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-bottom: 36px;
+}
+
+.maydalagich_button{
+    width: 215px;
+    height: 62px;
+    top: 3766px;
+    left: 930px;
+    padding: 20px 36px 20px 36px;
+    background-color: #C99E71;
+    border: none;
+}
+
+.maydalagich_button_p{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.78px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Coffelar_ota_div{
+    margin-top: 140px;
+}
+
+.Coffelar_orta_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 56px    ;
+}
+
+.Coffelar_center{
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    text-align: center;
+    color: #C99E71;
+}
+
+.Coffelar_centerh1{
+    font-family: Righteous;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 62.4px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 12px;
+}
+
+.Coffelar_narxi{
+    display: flex;
+    align-items: center;
+    width: 565px;
+    height: 120px;
+    top: 202px;
+    left: 375px;
+    border: 1px 0px 0px 0px;
+    border: 1px solid #32323D;
+    margin-bottom: 36px;
+}
+
+.Coffelar_h3{
+    font-family: Righteous;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.8px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-right: 117px;
+}
+
+.Coffelar_p{
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    text-align: right;
+    color: #C99E71;
+}
+
+.Coffelar_img{
+    margin-bottom: 24px;
+    margin-top: 24px;
+    margin-left: 24px;
+    margin-right: 21px;
+}
+
+.Testimonial_center_p{
+    margin-top: 140px;
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    text-align: center;
+    color: #C99E71;
+}
+
+.Testimonial_center_h1{
+    margin-top: 12px;
+    font-family: Righteous;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 62.4px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.Patriaxat_ota_div{
+    width: 565px;
+    height: 305px;
+    top: 1082px;
+    left: 375px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #1C1814;
+}
+
+.Patriaxat_div_ota{
+    display: flex;
+}
+
+.Patriaxat_div{
+    display: flex;
+    align-items: end;
+}
+
+.Patriaxat_img{
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 24px;
+    margin-bottom: 28px;
+}
+
+.Patriaxat_p{
+    width: 332px;
+    height: 145px;
+    top: 1122px;
+    opacity: 0.8px;
+    font-family: Urbanist;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28.8px;
+    text-align: left;
+    color: #FFFFFFCC;
+    margin-top: 40px;
+}
+
+.Patriaxat_h3{
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.6px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-left: 40px;
+}
+
+.Patriaxat_p2{
+    font-family: Urbanist;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25.2px;
+    text-align: left;
+    color: #FFFFFF80;
+    margin-left: 40px;
+}
+
+.Partiaxat_yulduz{
+    margin-left: 261px;
+}
+
+.Partiaxat_yulduz2{
+    margin-left: 208px;
+}
+
+.Pastriaxat_va_Matriaxat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 56px;
+}
+
+.Patriaxar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 922px;
+    margin-top: 36px;
+}
+
+.Reservation_ota_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 140px   ;
+}
+
+.Reservation_div{
+    width: 585px;
+    height: 652px;
+    top: 1619px;
+    left: 960px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #1C1814;
+}
+
+.Reservation_p{
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    text-align: center;
+    color: #C99E71;
+    margin-top: 72px;
+}
+
+.Reservation_h1{
+    font-family: Righteous;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 59.6px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 12px;
+}
+
+.Reservation_input{
+    width: 469px;
+    height: 44px;
+    padding: 10px 15px;
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32.4px;
+    text-align: left;
+    background-color: #14110E;
+    border: none;
+    margin-top: 56px;
+    margin-left: 48px;
+}
+
+.Reservation_button{
+    width: 210px;
+    height: 62px;
+    padding: 20px 36px 20px 36px;
+    background-color: #C99E71;
+    border: none;
+    margin-left: 210px;
+    margin-top: 30px;
+}
+
+.Reservation_p2{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.78px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Testimonial_ota_div{
+    margin-top: 140px;
+}
+
+.Testimonial_obshiy_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 36px;
+    margin-top: 56px;
+}
+
+.Testimonial_p{
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    text-align: center;
+    color: #C99E71;
+}
+
+.Testimonial_h1{
+    font-family: Righteous;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 62.4px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 12px;
+}
+
+.Testimonial_orta_div{
+    width: 366px;
+    height: 528px;
+    background-color: #1C1814;
+}
+
+.Testimonial_text_div{
+    display: flex;
+    margin-left: 24px;
+    margin-top: 20px;
+}
+
+.Testimonial_div_p1{
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.6px;
+    text-align: left;
+    color: #C99E71;
+}
+
+.Testimonial_div_p2{
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.6px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Testimonial_div_p3{
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.6px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-left: 149px;
+}
+
+.Testimonial_h3{
+    font-family: Righteous;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-left: 24px;
+    margin-top: 16px;
+}
+
+.Testimonial_past_p_and_img{
+    display: flex;
+    margin-top: 33px;
+    margin-left: 24px;
+}
+.Testimonial_p4{
+    font-family: Urbanist;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.2px;
+    text-align: left;
+    color: #C99E71;
+}
+
+.footer_ota_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 140px;
+}
+
+.footer_h3{
+    font-family: Urbanist;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.footer_razdel_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 651px;
+    height: 20px;
+    gap: 40px;
+    margin-left: 36px;
+}
+
+.footer_input{
+    width: 308px;
+    height: 52px;
+    padding: 10px 15px;
+    background-color: #1C1814;
+    border-radius: 50px;
+    border: none;
+    font-family: Urbanist;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28.8px;
+    text-align: left;
+    margin-left: 82px;
+}
+
+.Footerr{
+    background-color: #1C1814;
+    height: 90px;
+    margin-top: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Footer{
+    font-family: Urbanist;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25.2px;
+    text-align: center;
+    color: #FFFFFF;
+}
